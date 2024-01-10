@@ -21,3 +21,10 @@ const porotos = {
 
 let nombre = prompt("¡Bienvenido al VerdurasShop! Ingresa tu nombre a continuación:");
 let afiliacion = prompt("¿Estás afiliado?");
+
+
+// to do list:
+// high order function
+// prompt
+// math equation
+// function if else 
